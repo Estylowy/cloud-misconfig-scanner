@@ -1,6 +1,8 @@
 # ☁️ Cloud Misconfiguration Scanner — Azure & GCP
 
-**Author:** Mateusz Rusnak  
+**Author:** [Mateusz Rusnak](https://mateuszrusnak.pl) — Network & Security Specialist | QA Automation Engineer  
+**Website:** [mateuszrusnak.pl](https://mateuszrusnak.pl)  
+**LinkedIn:** [linkedin.com/in/mateuszrusnak](https://www.linkedin.com/in/mateuszrusnak/)  
 **Stack:** Python 3.12, Azure SDK, GCP SDK  
 **Version:** 1.1.0  
 **Status:** Production-ready, actively maintained
@@ -328,3 +330,13 @@ Application Default Credentials work well in CI/CD with Workload Identity Federa
 - [CIS Azure Foundations Benchmark](https://www.cisecurity.org/benchmark/azure)
 - [CIS Google Cloud Platform Benchmark](https://www.cisecurity.org/benchmark/google_cloud_computing_platform)
 - [MITRE ATT&CK — T1190 Exploit Public-Facing Application](https://attack.mitre.org/techniques/T1190/)
+
+---
+
+## 👤 About the Author
+
+Built and maintained by **[Mateusz Rusnak](https://mateuszrusnak.pl)** — Network & Security Specialist with 7+ years in firewalls, SIEM, and cloud infrastructure (Cisco ASA, Palo Alto, Wazuh, GCP, Azure).
+
+- 🌐 Portfolio & blog: [mateuszrusnak.pl](https://mateuszrusnak.pl)
+- 💼 LinkedIn: [linkedin.com/in/mateuszrusnak](https://www.linkedin.com/in/mateuszrusnak/)
+- 🎮 Side project: [slimelabarena.pl](https://www.slimelabarena.pl)
